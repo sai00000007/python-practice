@@ -12,3 +12,4 @@ Each folder contains programs based on specific topics like:
 To improve my Python programming skills and get ready for placements.
 
 ## 📅 Started on: June 12, 2025
+## ✅ Day 2 - If-Else Programs Added
