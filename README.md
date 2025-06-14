@@ -13,3 +13,6 @@ To improve my Python programming skills and get ready for placements.
 
 ## 📅 Started on: June 12, 2025
 ## ✅ Day 2 - If-Else Programs Added
+## Day 3 - Python Conditional Practice
+- Practiced nested if-else and user input
+- Includes bonus login system
